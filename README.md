@@ -1,7 +1,7 @@
 <div align=center>
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOOOVING&fontSize=70&fontAlignY=50&animation=twinkling)
-  
+<!--  
   <b>
     Hi there! My name is Kim Subin. 😊 <br/><br/>
   </b>
@@ -9,7 +9,7 @@
     and although I am still junior, I am developing a full stack. 💻<br/>
   
   <br/><br/>
-  
+  -->
   
   <h3> 📚 Tech Stack 📚 </h3>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
