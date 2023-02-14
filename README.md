@@ -25,9 +25,4 @@
   <img src="https://img.shields.io/badge/mySql-4479A1?style=flat-square&logo=mySql&logoColor=white"/>
   
   <br/><br/>
-  
-  <h3> 💖 ME 💖 </h3>
-  <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@soooving"/>
-  <img src="https://img.shields.io/badge/prevGithub-000000?style=flat-square&logo=github&logoColor=white&link=https://github.com/subsubin"/>
-  
 </div>
